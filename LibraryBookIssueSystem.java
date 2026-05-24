@@ -1,3 +1,6 @@
+/*Respectfully submitted. Mam I did not have any group member left to collaborate with me, 
+I have worked on this assignment independently.*/
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
